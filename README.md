@@ -15,5 +15,6 @@ This project is an interactive application that recognizes hand gestures and tra
 ❤️ Made with a passion for accessibility and sign language communication.      
 Created to make a small but meaningful difference. 🌍🤗
 
-![output2](https://github.com/user-attachments/assets/041c9193-121f-449b-ad36-61325464d862)
-![Uploading output5.png…]()
+![output2](https://github.com/user-attachments/assets/041c9193-121f-449b-ad36-61325464d862)    
+
+![output5](https://github.com/user-attachments/assets/5d3491b1-6a10-4566-b454-5e1f13e562d4)
