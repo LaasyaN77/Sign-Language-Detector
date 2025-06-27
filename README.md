@@ -1,4 +1,4 @@
-# 🖐️ Sign Language Detector ✨
+# 🖐️ Sign Language Detector 
 
 This project is an interactive application that recognizes hand gestures and translates them into sign language letters in real-time. This tool bridges the communication gap with the help of Machine Learning! 
 
